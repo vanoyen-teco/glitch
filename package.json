@@ -1,0 +1,26 @@
+{
+  "name": "entregable_3",
+  "version": "1.0.0",
+  "description": "Tema: Servidor Node en Glitch.\r Link:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanoyen-teco/glitch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanoyen-teco/glitch/issues"
+  },
+  "homepage": "https://github.com/vanoyen-teco/glitch#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
